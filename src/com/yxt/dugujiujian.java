@@ -5,5 +5,6 @@ public class dugujiujian {
 		System.out.println("11111");
 		System.out.println("222222");
 		System.out.println("333");
+		System.out.println("yyyy");
 	}
 }
